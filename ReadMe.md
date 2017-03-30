@@ -73,4 +73,4 @@ plt.show()
 ```
 #### ¤ÀªRµ²ªG
 
-![](https://github.com/KuanChiChiu/Big_Data_Analytics_HW1/tree/master/img/result.png)
+![](https://github.com/KuanChiChiu/Big_Data_Analytics_HW1/blob/master/img/result.png)

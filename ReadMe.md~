@@ -33,7 +33,7 @@
 - Dataset: https://github.com/ManSoSec/Microsoft-Malware-Challenge
 - resource: http://scikit-learn.org/stable/auto_examples/ensemble/plot_forest_importances.html
 
-#### python codes
+#### python¥N? python codes
 
 ```python
 %matplotlib inline
